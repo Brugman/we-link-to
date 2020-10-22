@@ -2,6 +2,8 @@
 
 > A WordPress plugin that shows you all the links in your posts' content.
 
+![screenshot](/screenshot.png)
+
 ## Contributing
 
 Found a bug? Anything you would like to ask, add or change? Please open an issue so we can talk about it.
